@@ -1,0 +1,19 @@
+[33mcommit 875f334db89c959b43cfb8016f0d607d60861ed3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: gl <gl0738@gmail.com>
+Date:   Tue Feb 4 19:36:13 2025 +0800
+
+    Commit changes before installing foundry-devops
+
+[33mcommit 7dea70cb611a7e56a3b96ab4bba6c605d8a03320[m
+Author: gl <gl0738@gmail.com>
+Date:   Sun Jan 19 19:04:11 2025 +0800
+
+    forge install: forge-std
+    
+    v1.9.5
+
+[33mcommit 477e746e4ab3e3cb5e6767b01e1d5fae19e66e75[m
+Author: gl <gl0738@gmail.com>
+Date:   Sun Jan 19 19:04:01 2025 +0800
+
+    chore: forge init
